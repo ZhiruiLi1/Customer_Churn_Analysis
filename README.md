@@ -1,7 +1,7 @@
 This repository contains a machine learning/data science pipeline for customer churn prediction. It includes Python-based models such as Logistic Regression with regularization, Random Forest, SVM, and XGBoost, all trained using demographic and transaction data. This project encompasses comprehensive exploratory data analysis, data preprocessing, model development, tuning, interpretation, and strategic recommendations derived from complex data insights, all documented through a report and presentation tailored for technical and non-technical stakeholders.
 
 
-Model Tuning Parameters:
+Tuning Parameters:
 
 <img width="602" alt="Tuning_Parameters" src="https://github.com/ZhiruiLi1/Customer_Churn_Analysis/assets/90368869/9e707943-54e1-4e50-82aa-b2365f272a92">
 
