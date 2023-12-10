@@ -1,7 +1,7 @@
 This repository contains a machine learning/data science pipeline for customer churn prediction. It includes Python-based models such as Logistic Regression with regularization, Random Forest, SVM, and XGBoost, all trained using demographic and transaction data. This project encompasses comprehensive exploratory data analysis, data preprocessing, model development, tuning, interpretation, and strategic recommendations derived from complex data insights, all documented through a report and presentation tailored for technical and non-technical stakeholders.
 
 
-The core components of this project are:
+The core components of this project include:
 
 1. Extensive Exploratory Data Analysis (EDA): A thorough examination of the dataset to uncover critical patterns and relationships.
 
@@ -9,7 +9,7 @@ The core components of this project are:
 
 3. Model Development and Hyperparameter Tuning: Systematic building and optimization of various models to achieve the best possible performance.
 
-4. Interpretation of Results: Detailed analysis of the models' predictions, focusing on global and local feature importance.
+4. Interpretation of Results: Detailed analysis of the model's predictions, focusing on global and local feature importance.
 
 5. Strategic Recommendations: Drawing actionable insights from the data to inform strategic decision-making and improve customer retention.
 
