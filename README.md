@@ -5,11 +5,11 @@ The core components of this project are:
 
 1. Extensive Exploratory Data Analysis (EDA): A thorough examination of the dataset to uncover critical patterns and relationships.
 
-2. Data Preprocessing: Tailoring the data to suit the needs of machine learning algorithms, ensuring the quality and relevance of the input data.
+2. Data Preprocessing: Transforming the data to meet the requirements of machine learning algorithms, ensuring the input data's robustness.
 
 3. Model Development and Hyperparameter Tuning: Systematic building and optimization of various models to achieve the best possible performance.
 
-4. Interpretation of Results: Detailed analysis of the models' outcomes, focusing on the practical implications of the findings.
+4. Interpretation of Results: Detailed analysis of the models' predictions, focusing on global and local feature importance.
 
 5. Strategic Recommendations: Drawing actionable insights from the data to inform strategic decision-making and improve customer retention.
 
