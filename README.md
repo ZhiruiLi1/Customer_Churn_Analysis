@@ -5,7 +5,7 @@ The core components of this project include:
 
 1. Extensive Exploratory Data Analysis (EDA): A thorough examination of the dataset to uncover critical patterns and relationships.
 
-2. Data Preprocessing and Splitting: Transforming the data to meet the requirements of machine learning algorithms, ensuring the input data's robustness.
+2. Data Preprocessing and Splitting: Transforming raw data to suit machine learning algorithms, ensuring input data's robustness and effectiveness.
 
 3. Model Development and Hyperparameter Tuning: Systematic building and optimization of various models to achieve the best possible performance.
 
